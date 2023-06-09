@@ -1,0 +1,13 @@
+cd (change directory)
+
+pwd(location/ where you are)
+
+ls (list of what is in folder)
+
+cd .. (go to previous folder)
+
+touch (create new file within folder that you are currently in)
+
+mkdir(make new folder in current directory)
+
+code . (open folder/file in VS-need terminal VS extension)
